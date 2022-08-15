@@ -1,0 +1,20 @@
+h4.post-title {
+  color: #583abc;
+}
+
+.user-card .user-info .img-holder{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.user-card .user-info img{
+    height: 100%;
+    width: 100%;
+}
+
+.badge.badge-theme{
+    color:white;
+    background-color: #583abc;
+}

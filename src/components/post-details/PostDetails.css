@@ -1,0 +1,12 @@
+.post-details .user-info .detail{
+    padding: 5px;
+}
+
+.post-details .user-info .detail.name-dtl{
+    color:white;
+    background-color: #583abc;
+}
+
+.post-details .user-info .detail.date-dtl{
+    color:#583abc;
+}
